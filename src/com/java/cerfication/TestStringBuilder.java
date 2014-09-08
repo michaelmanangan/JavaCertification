@@ -8,7 +8,8 @@ public class TestStringBuilder {
 		StringBuilder str3 = new StringBuilder(50);
 		StringBuilder str4 = new StringBuilder("Michael");
 		System.out.println(str1 + " " + str2 + " " + str3 + " " + str4);
-		
+		str1.append("Bing");
+		System.out.println(str1 + " " + str1.length());
 		
 	}
 
