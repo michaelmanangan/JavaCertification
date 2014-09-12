@@ -3,7 +3,7 @@ package com.java.cerfication;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("HI Australia!");
+		System.out.println("HI Hobart");
 		
 	}
 
