@@ -1,4 +1,4 @@
-package com.java.cerfication;
+package com.java.certification;
 
 public class TestSingleton {
 

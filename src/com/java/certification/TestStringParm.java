@@ -1,4 +1,4 @@
-package com.java.cerfication;
+package com.java.certification;
 // This means that a String is treated like a primitive when passed as a parameter
 public class TestStringParm {
 	
