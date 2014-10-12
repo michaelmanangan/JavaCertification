@@ -17,7 +17,7 @@ public class TestArrays {
 		for (int i = 0; i < arrayClone.length; i++) {
 			System.out.println("Index i = " + i + " " + (arrayClone[i] == array1[i]) + " " );
 		}
-		// above proves that's cloning is a shallow copy.
+		// above proves that's cloning is a shallow copy
 		
 		arrayClone[0].reverse();
 
