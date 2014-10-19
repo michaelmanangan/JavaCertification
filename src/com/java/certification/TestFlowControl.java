@@ -20,7 +20,8 @@ public class TestFlowControl {
 					break outer;
 //					continue outer;
 				}	
-				System.out.print(inner + ":");
+				System.out.println("outer:" + outer);
+				System.out.println("inner:" + inner);
 			}
 		System.out.println();
 		System.out.println("Finish");
